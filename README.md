@@ -315,7 +315,7 @@ Designing and building full stack applications end to end, from schema and API d
 <h2 align="center">Contribution Activity</h2>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=iyersriram042006&bg_color=0D1117&color=A78BFA&line=8B5CF6&point=EDE9FE&area=true&area_color=6D28D9&hide_border=true&radius=8" alt="Contribution Activity Graph" />
+  <img src="https://ghchart.rshah.org/6D28D9/iyersriram042006" alt="Contribution Activity" />
 </p>
 
 ---
