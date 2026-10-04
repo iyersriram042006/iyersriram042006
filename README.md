@@ -1,9 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:312E81,50:5B21B6,100:8B5CF6&height=240&section=header&text=Sriram%20Iyer&fontSize=64&fontColor=EDE9FE&fontAlignY=38&desc=Software%20Engineer%20%7C%20AI%20%2F%20ML%20%7C%20Full%20Stack%20Developer&descSize=20&descAlignY=60&animation=fadeIn" width="100%" alt="header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:312E81,50:5B21B6,100:8B5CF6&height=240&section=header&text=Sriram%20Iyer&fontSize=64&fontColor=EDE9FE&fontAlignY=38&desc=Software%20Engineer%20%7C%20Full%20Stack%20%7C%20Systems%20%26%20Algorithms&descSize=20&descAlignY=60&animation=fadeIn" width="100%" alt="header" />
 
 <a href="https://github.com/iyersriram042006">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3200&pause=900&color=A78BFA&center=true&vCenter=true&width=760&lines=Building+production-grade+AI+and+full+stack+systems;Computer+Science+%26+Engineering+%40+Ramdeobaba+University;Edge+AI+%7C+Applied+ML+%7C+Cloud+%7C+Product+Engineering" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3200&pause=900&color=A78BFA&center=true&vCenter=true&width=760&lines=Building+full+stack+systems+with+clean+architecture;Classical+algorithms+%7C+Rule-Based+Engines+%7C+Simulation;Computer+Science+%26+Engineering+%40+Ramdeobaba+University" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -25,7 +25,7 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=iyersriram042006&style=for-the-badge&color=6D28D9&labelColor=1E1B4B&label=PROFILE+VIEWS)
 ![Followers](https://img.shields.io/github/followers/iyersriram042006?style=for-the-badge&logo=github&color=4F46E5&labelColor=1E1B4B&label=FOLLOWERS)
-![Stars](https://img.shields.io/github/stars/iyersriram042006/weatherflow-dashboard?style=for-the-badge&logo=github&color=7C3AED&labelColor=1E1B4B&label=STARS)
+[![Public Repos](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fiyersriram042006&query=%24.public_repos&label=PUBLIC%20REPOS&style=for-the-badge&logo=github&color=7C3AED&labelColor=1E1B4B)](https://github.com/iyersriram042006?tab=repositories)
 
 </div>
 
@@ -35,16 +35,16 @@
 
 <div align="center">
 
-**Software engineer focused on building reliable, scalable and product-driven systems.**
+**Software engineer focused on building reliable, well-structured and product-driven systems.**
 
 </div>
 
-I am a Computer Science and Engineering undergraduate at Ramdeobaba University, Nagpur, with a strong emphasis on software engineering fundamentals, applied AI/ML and full stack development. I approach every build with a product engineering mindset: scope the problem honestly, ship a technically sound MVP, measure it, and iterate.
+I am a Computer Science and Engineering undergraduate at Ramdeobaba University, Nagpur. I build end-to-end applications, from relational schemas and REST APIs to deployed React frontends, and I like problems that reward careful reasoning: classical algorithms, deterministic rule engines and simulation. I scope each build honestly, ship working software with clear documentation, and iterate.
 
-- **Software Engineering** — clean architecture, API design, SDLC practices, documentation, and maintainable code
-- **AI / ML** — applied machine learning, deep learning with PyTorch, vector search, and Edge AI for multi-agent coordination
-- **Full Stack Development** — React frontends with FastAPI and PostgreSQL backends, deployed on modern cloud platforms
-- **Product Engineering** — translating ambiguous requirements into focused, feasible and user-centered deliverables
+- **Software Engineering** — modular architecture, design patterns, API design, testing and documentation
+- **Algorithms and Systems** — A* pathfinding, Hungarian assignment, deadlock detection and deterministic simulation
+- **Full Stack Development** — React and TypeScript frontends with FastAPI, PostgreSQL and MongoDB backends
+- **Product Engineering** — authentication, third-party API integration, analytics and live deployment on Render
 
 <table align="center">
   <tr>
@@ -52,7 +52,7 @@ I am a Computer Science and Engineering undergraduate at Ramdeobaba University, 
   </tr>
   <tr>
     <td>
-      Software Engineering Internships &nbsp;|&nbsp; AI / ML Internships &nbsp;|&nbsp; Full Stack Roles &nbsp;|&nbsp; Hackathons &nbsp;|&nbsp; Open Source Collaboration
+      Software Engineering Internships &nbsp;|&nbsp; Full Stack Roles &nbsp;|&nbsp; Hackathons &nbsp;|&nbsp; Open Source Collaboration
     </td>
   </tr>
 </table>
@@ -64,35 +64,36 @@ I am a Computer Science and Engineering undergraduate at Ramdeobaba University, 
 <h3 align="center">Languages</h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=py,cpp,js,html,css&theme=dark" alt="Languages" />
+  <img src="https://skillicons.dev/icons?i=ts,py,java,js,cpp,html,css&theme=dark" alt="Languages" />
 </p>
 
 <h3 align="center">Frontend</h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,html,css,js&theme=dark" alt="Frontend" />
-  <img src="https://img.shields.io/badge/Chart.js-4F46E5?style=flat-square&logo=chartdotjs&logoColor=white" alt="Chart.js" />
+  <img src="https://skillicons.dev/icons?i=react,vite,tailwind,ts&theme=dark" alt="Frontend" />
+  <img src="https://img.shields.io/badge/Radix%20UI-4F46E5?style=flat-square&logo=radixui&logoColor=white" alt="Radix UI" />
+  <img src="https://img.shields.io/badge/Framer%20Motion-6D28D9?style=flat-square&logo=framer&logoColor=white" alt="Framer Motion" />
+  <img src="https://img.shields.io/badge/Recharts-7C3AED?style=flat-square" alt="Recharts" />
+  <img src="https://img.shields.io/badge/Chart.js-5B21B6?style=flat-square&logo=chartdotjs&logoColor=white" alt="Chart.js" />
 </p>
 
 <h3 align="center">Backend & Databases</h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=fastapi,postgres,py&theme=dark" alt="Backend" />
-  <img src="https://img.shields.io/badge/pgvector-6D28D9?style=flat-square&logo=postgresql&logoColor=white" alt="pgvector" />
-  <img src="https://img.shields.io/badge/Neon-7C3AED?style=flat-square&logoColor=white" alt="Neon" />
-</p>
-
-<h3 align="center">Machine Learning</h3>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=pytorch,py&theme=dark" alt="ML" />
-  <img src="https://img.shields.io/badge/scikit--learn-5B21B6?style=flat-square&logo=scikitlearn&logoColor=white" alt="scikit-learn" />
+  <img src="https://skillicons.dev/icons?i=fastapi,py,postgres,mongodb&theme=dark" alt="Backend" />
+  <img src="https://img.shields.io/badge/SQLAlchemy-4C1D95?style=flat-square" alt="SQLAlchemy" />
+  <img src="https://img.shields.io/badge/Pydantic-6D28D9?style=flat-square" alt="Pydantic" />
+  <img src="https://img.shields.io/badge/JWT-7C3AED?style=flat-square&logo=jsonwebtokens&logoColor=white" alt="JWT" />
 </p>
 
 <h3 align="center">Cloud, DevOps & Tooling</h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,vercel,git,github,linux&theme=dark" alt="Cloud and DevOps" />
+  <img src="https://skillicons.dev/icons?i=git,github&theme=dark" alt="Tooling" />
+  <img src="https://img.shields.io/badge/Render-4F46E5?style=flat-square&logo=render&logoColor=white" alt="Render" />
+  <img src="https://img.shields.io/badge/pytest-6D28D9?style=flat-square&logo=pytest&logoColor=white" alt="pytest" />
+  <img src="https://img.shields.io/badge/Vitest-7C3AED?style=flat-square&logo=vitest&logoColor=white" alt="Vitest" />
+  <img src="https://img.shields.io/badge/AWS%20(coursework)-5B21B6?style=flat-square&logo=amazonaws&logoColor=white" alt="AWS coursework" />
 </p>
 
 ---
@@ -103,12 +104,11 @@ I am a Computer Science and Engineering undergraduate at Ramdeobaba University, 
 
 | Domain | Proficiency | Details |
 |:--|:--:|:--|
-| Machine Learning | ![Intermediate](https://img.shields.io/badge/Intermediate-6D28D9?style=flat-square) | Feature engineering, model training and evaluation with scikit-learn for sports analytics |
-| Deep Learning | ![Intermediate](https://img.shields.io/badge/Intermediate-6D28D9?style=flat-square) | Transfer learning and fine-tuning of VGG architectures in PyTorch with GPU training workflows |
-| Search and Reasoning | ![Intermediate](https://img.shields.io/badge/Intermediate-6D28D9?style=flat-square) | BFS, DFS, IDDFS, A*, adversarial search, predicate logic and resolution theorem proving |
-| Vector Search and Retrieval | ![Working](https://img.shields.io/badge/Working-4F46E5?style=flat-square) | Embedding storage and similarity search using PostgreSQL with pgvector |
-| Edge AI and Multi-Agent Systems | ![Working](https://img.shields.io/badge/Working-4F46E5?style=flat-square) | Decentralized fleet coordination and simulation for autonomous mobile robots |
-| Health Data Analytics | ![Working](https://img.shields.io/badge/Working-4F46E5?style=flat-square) | Structured medical report parsing and rule-based pattern detection |
+| Classical Search and Optimization | ![Intermediate](https://img.shields.io/badge/Intermediate-6D28D9?style=flat-square) | A* pathfinding, Hungarian assignment and deadlock detection in a decentralized robot simulation; BFS, DFS, IDDFS and adversarial search in coursework |
+| Rule-Based Reasoning | ![Intermediate](https://img.shields.io/badge/Intermediate-6D28D9?style=flat-square) | Deterministic, evidence-grounded classification engine with confidence scoring and auditable decision paths |
+| Recommendation Logic | ![Working](https://img.shields.io/badge/Working-4F46E5?style=flat-square) | Transparent keyword-scoring recommendations over user journal data (no trained model) |
+| Data Analytics | ![Working](https://img.shields.io/badge/Working-4F46E5?style=flat-square) | Genre, director and rating analytics; IPL ball-by-ball data pipeline with Pandas and NumPy in progress |
+| Deep Learning | ![Foundational](https://img.shields.io/badge/Foundational-4C1D95?style=flat-square) | Coursework lab on fine-tuning a VGG model in PyTorch |
 
 </div>
 
@@ -117,82 +117,102 @@ I am a Computer Science and Engineering undergraduate at Ramdeobaba University, 
 <h2 align="center">Featured Projects</h2>
 
 <details open>
-<summary><b>CricketIQ AI — IPL Analytics Platform</b></summary>
+<summary><b>Decentralized AMR Coordination — Warehouse Robot Simulation</b></summary>
 
 <br/>
 
-An IPL analytics platform that combines statistical modelling, vector search and an API-first backend to deliver player and team insights.
+A browser-based simulation and operator console for decentralized coordination of autonomous mobile robots in warehouses, built around Smart India Hackathon 2026 Problem Statement 26123 (Bharat Electronics Limited).
 
 | Category | Details |
 |:--|:--|
-| **Stack** | FastAPI, PostgreSQL (Neon), pgvector, scikit-learn, Vercel |
-| **Scale** | Solo-built MVP, scoped from a 26-feature product brief to a feasible core |
-| **Performance** | Serverless deployment with indexed queries and an API-first architecture |
-| **Security** | Environment-managed credentials and server-side input validation |
-| **Impact** | Turns raw IPL data into structured, queryable analytics |
-| **Repository** | [View on GitHub](https://github.com/iyersriram042006?tab=repositories) |
+| **Stack** | React, FastAPI, MongoDB (Motor), Python, Tailwind CSS, Radix UI, Framer Motion, Recharts |
+| **Scale** | Nine built-in scenarios including collisions, choke points, blocked paths, battery failure and task-manager failover |
+| **Performance** | Deterministic, seeded, tick-based simulation with a baseline vs. system comparison mode for reproducible benchmarking |
+| **Security** | CORS configuration and environment-based secrets; Pydantic request validation |
+| **Impact** | Demonstrates peer-to-peer robot coordination without a centralized planner |
+| **Repository** | [iyersriram042006/decentralized-amr-coordination](https://github.com/iyersriram042006/decentralized-amr-coordination) |
 
-**Overview.** The project demonstrates disciplined scoping: a broad feature brief was reduced to an MVP that can be shipped and validated by a single engineer. The FastAPI backend is scaffolded around clean service boundaries so that ML models and retrieval features can be added incrementally.
+**Overview.** Robots coordinate over in-process broadcast channels using A* path planning, Hungarian task assignment, priority-based conflict resolution, time-to-collision checks and wait-for cycle deadlock detection. The system also handles battery states, task-manager election and acknowledgement retries, and includes backend integration tests with pytest.
 
 </details>
 
 <details>
-<summary><b>HealthSense AI — Family Health Intelligence Platform</b></summary>
+<summary><b>Ayurveda Idea Verification — Evidence-Grounded Analysis Platform</b></summary>
 
 <br/>
 
-A family-centered platform for structured analysis of medical reports, built for the Idea Lab course.
+A structured verification tool that helps innovators assess Ayurvedic product ideas across intellectual property, regulatory compliance, traditional knowledge and biodiversity considerations.
 
 | Category | Details |
 |:--|:--|
-| **Stack** | Python, rule-based analysis engine, structured report schemas |
-| **Scale** | MVP covering four report types: CBC, Lipid Profile, Blood Glucose and Thyroid (TSH) |
-| **Performance** | Deterministic rule engine with transparent and reproducible outputs |
-| **Security** | Privacy-first design for sensitive health data; no unverified clinical claims |
-| **Impact** | Surfaces health patterns across family members in one consolidated view |
-| **Repository** | [View on GitHub](https://github.com/iyersriram042006?tab=repositories) |
+| **Stack** | React 19, TypeScript, TanStack Router, Vite, Tailwind CSS, Radix UI, Zod, Vitest |
+| **Scale** | Maps ideas to seven IP regimes through a five-stage analysis pipeline over a curated knowledge base |
+| **Performance** | Fully client-side deterministic engine with no model inference |
+| **Security** | Type-safe validation with Zod; no credentials in the repository |
+| **Impact** | Turns an unstructured idea into evidence-cited findings, gap analysis and a prioritized roadmap |
+| **Repository** | [iyersriram042006/ayurveda_idea_verification](https://github.com/iyersriram042006/ayurveda_idea_verification) |
 
-**Overview.** Scope was refined through multiple iterations into a technically honest MVP. Family-level pattern detection uses explainable rules rather than opaque models, and the project is documented through an institutional synopsis.
+**Overview.** The pipeline moves from intake and classification to source retrieval, evidence verification and roadmap generation. Every result is rule-based and auditable, with confidence scoring and explicit gap reporting. It does not use language models or machine learning. The project is MIT licensed.
 
 </details>
 
 <details>
-<summary><b>SIH 2026 — Edge-AI Decentralized AMR Fleet Coordination</b></summary>
+<summary><b>CineMood — Mood-Aware Movie Journal and Social Platform</b></summary>
 
 <br/>
 
-Team solution for Smart India Hackathon 2026, Problem Statement 26123 by Bharat Electronics Limited: decentralized coordination of autonomous mobile robots in smart warehouses.
+A full-stack movie journal where users log films with mood tags, ratings and reviews, get mood-based recommendations and compare tastes with friends.
 
 | Category | Details |
 |:--|:--|
-| **Stack** | React, FastAPI, Python simulation modules |
-| **Scale** | Fleet Management view with a dedicated simulation view per problem |
-| **Performance** | Edge-first decision making designed to reduce dependence on a central controller |
-| **Security** | Decentralized architecture with reduced single points of failure |
-| **Impact** | Addresses warehouse logistics and robot fleet coordination for a national defense electronics enterprise |
-| **Repository** | [View on GitHub](https://github.com/iyersriram042006?tab=repositories) |
+| **Stack** | React 19, Vite, Tailwind CSS, FastAPI, PostgreSQL, SQLAlchemy, TMDB API |
+| **Scale** | Separate frontend and backend services with journal, analytics, recommendation and social modules |
+| **Performance** | Rule-based keyword scoring over journal entries; analytics for genres, directors, ratings and timeline |
+| **Security** | JWT bearer authentication, bcrypt password hashing, protected routes and CORS configuration |
+| **Impact** | Combines personal tracking with friend networks, public journals, likes, comments and taste comparison |
+| **Repository** | [iyersriram042006/cinemood](https://github.com/iyersriram042006/cinemood) · [Live Demo](https://cinemood-frontend.onrender.com) |
 
-**Overview.** The dashboard was redesigned from a single all-in-one monitoring screen into a problem-wise simulation structure, which makes each coordination scenario easier to demonstrate, evaluate and extend.
+**Overview.** The backend is organized into routers for authentication, movies, journal, analytics, recommendations and social features. Recommendations are transparent keyword matches rather than a trained model. Both services are deployed on Render.
 
 </details>
 
 <details>
-<summary><b>WeatherFlow Dashboard — Modern Weather Analytics</b></summary>
+<summary><b>CricketIQ AI — IPL Analytics Platform (In Progress)</b></summary>
 
 <br/>
 
-A modern weather dashboard that visualizes live conditions and forecasts using the OpenWeather API and Chart.js.
+An analytics platform for IPL ball-by-ball data, planned to cover player intelligence, team analytics and match insights.
 
 | Category | Details |
 |:--|:--|
-| **Stack** | JavaScript, HTML, CSS, OpenWeather API, Chart.js |
-| **Scale** | Single-page client application |
-| **Performance** | Lightweight client-side rendering with API-driven data visualization |
-| **Security** | API key kept out of source control |
-| **Impact** | Clear, glanceable weather insight through interactive charts |
-| **Repository** | [iyersriram042006/weatherflow-dashboard](https://github.com/iyersriram042006/weatherflow-dashboard) |
+| **Stack** | React 19, Vite, Tailwind CSS, Recharts, FastAPI, SQLAlchemy, PostgreSQL, Pandas, NumPy |
+| **Scale** | Solo-built; architecture and tooling in place, feature development ongoing |
+| **Performance** | Visualization-ready frontend and a relational data layer prepared for large ball-by-ball datasets |
+| **Security** | Environment-based configuration with Pydantic validation |
+| **Impact** | Foundation for structured, queryable cricket analytics |
+| **Repository** | [iyersriram042006/CricketIQ-AI](https://github.com/iyersriram042006/CricketIQ-AI) |
 
-**Overview.** A focused front-end project covering REST API integration, asynchronous data handling and data visualization.
+**Overview.** The frontend and backend are cleanly separated so analytics modules can be added incrementally. Predictive and AI features are planned and not yet implemented. The project is MIT licensed.
+
+</details>
+
+<details>
+<summary><b>Airport Flight and Baggage Management System — Design Patterns</b></summary>
+
+<br/>
+
+A console-based Java application that models an airport workflow to demonstrate seven Gang of Four design patterns.
+
+| Category | Details |
+|:--|:--|
+| **Stack** | Java (JDK 8+), standard library only |
+| **Scale** | Flight, baggage, clearance, authentication and notification modules |
+| **Performance** | In-memory simulation with sample data and no external dependencies |
+| **Security** | Role-based access (Passenger, Staff, Admin) through the Proxy pattern; demo credentials only |
+| **Impact** | Shows practical use of patterns in a realistic business domain |
+| **Repository** | [iyersriram042006/airport-flight-baggage-system](https://github.com/iyersriram042006/airport-flight-baggage-system) |
+
+**Overview.** The project implements Singleton, Factory Method, Abstract Factory, Proxy, Chain of Responsibility, Bridge and Observer, organized into packages by pattern, with example console output documented in the README.
 
 </details>
 
@@ -203,31 +223,33 @@ A modern weather dashboard that visualizes live conditions and forecasts using t
 ### Team Member — Smart India Hackathon 2026
 **Smart India Hackathon, Government of India** &nbsp;|&nbsp; 2026 – Present
 
-Contributing to a national-level hackathon entry on Edge-AI based decentralized AMR fleet coordination for smart warehouses (Bharat Electronics Limited, PS 26123).
+Working on Problem Statement 26123 (Bharat Electronics Limited): decentralized coordination of autonomous mobile robots in smart warehouses.
 
-- Reorganized and structured the problem statements by theme and difficulty to support team selection
-- Redesigned the solution dashboard into a problem-wise simulation architecture using React and FastAPI
-- Contributed to system design, simulation planning and technical documentation
+- Organized and sorted the problem statements by theme and difficulty to support team selection
+- Redesigned the solution dashboard into a problem-wise simulation structure using React and FastAPI
+- Contributed to system design, simulation logic and technical documentation
 
-![Edge AI](https://img.shields.io/badge/Edge%20AI-4C1D95?style=flat-square)
-![React](https://img.shields.io/badge/React-6D28D9?style=flat-square)
-![FastAPI](https://img.shields.io/badge/FastAPI-7C3AED?style=flat-square)
-![Simulation](https://img.shields.io/badge/Simulation-4F46E5?style=flat-square)
+![React](https://img.shields.io/badge/React-4C1D95?style=flat-square)
+![FastAPI](https://img.shields.io/badge/FastAPI-6D28D9?style=flat-square)
+![MongoDB](https://img.shields.io/badge/MongoDB-7C3AED?style=flat-square)
+![A*](https://img.shields.io/badge/A*-4F46E5?style=flat-square)
+![Simulation](https://img.shields.io/badge/Simulation-5B21B6?style=flat-square)
 
-### Independent Software Developer — AI Products
+### Independent Software Developer
 **Self-Directed Projects** &nbsp;|&nbsp; 2026 – Present
 
-Designing and building AI-driven products end to end, from scoping and architecture to implementation and documentation.
+Designing and building full stack applications end to end, from schema and API design to deployment and documentation.
 
-- Built CricketIQ AI, an IPL analytics platform, as a solo MVP with a FastAPI backend and a PostgreSQL + pgvector data layer
-- Designed HealthSense AI, a family health report analysis platform with a rule-based pattern detection engine
-- Applied cloud fundamentals across coursework including AWS EC2, EBS, S3, load balancing and auto scaling, plus Docker-based deployment
+- Built and deployed CineMood, a full stack social movie journal with JWT authentication, TMDB integration and analytics
+- Built an evidence-grounded, rule-based verification engine for Ayurvedic innovations with React and TypeScript
+- Started CricketIQ AI, an IPL analytics platform on React, FastAPI and PostgreSQL
+- Implemented seven Gang of Four design patterns in a Java airport workflow simulation
 
-![Python](https://img.shields.io/badge/Python-4C1D95?style=flat-square)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-6D28D9?style=flat-square)
+![TypeScript](https://img.shields.io/badge/TypeScript-4C1D95?style=flat-square)
+![Python](https://img.shields.io/badge/Python-6D28D9?style=flat-square)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-7C3AED?style=flat-square)
-![AWS](https://img.shields.io/badge/AWS-4F46E5?style=flat-square)
-![Docker](https://img.shields.io/badge/Docker-5B21B6?style=flat-square)
+![Render](https://img.shields.io/badge/Render-4F46E5?style=flat-square)
+![Java](https://img.shields.io/badge/Java-5B21B6?style=flat-square)
 
 ---
 
@@ -237,11 +259,11 @@ Designing and building AI-driven products end to end, from scoping and architect
 
 | Recognition | Details |
 |:--|:--|
-| **Academic Standing** | CGPA of 8.89 in B.Tech Computer Science and Engineering at Ramdeobaba University |
-| **Smart India Hackathon 2026** | Team member working on Problem Statement 26123 for Bharat Electronics Limited |
-| **Product Scoping** | Reduced a 26-feature platform brief into a deliverable solo MVP |
-| **Applied AI Coursework** | Search algorithms, knowledge representation and PyTorch model fine-tuning |
-| **Open Source Presence** | 11 public repositories spanning C++, JavaScript and Python |
+| **Academic Standing** | CGPA of 8.94 in B.Tech Computer Science and Engineering at Ramdeobaba University |
+| **Smart India Hackathon 2026** | Team member on Problem Statement 26123 for Bharat Electronics Limited |
+| **Live Deployment** | CineMood deployed with separate frontend and backend services on Render |
+| **Design Patterns** | Implemented seven Gang of Four patterns in a working Java application |
+| **Open Source Presence** | 12 public repositories across TypeScript, Python, Java, JavaScript and C++ |
 
 </div>
 
@@ -254,24 +276,6 @@ Designing and building AI-driven products end to end, from scoping and architect
 <p align="center">
   <img src="https://img.shields.io/badge/AWS-Cloud%20Computing%20Coursework-4C1D95?style=for-the-badge&logo=amazonaws&logoColor=white&labelColor=1E1B4B" alt="AWS" />
   <img src="https://img.shields.io/badge/EC2%20%7C%20EBS%20%7C%20S3%20%7C%20Auto%20Scaling-6D28D9?style=flat-square" alt="AWS services" />
-</p>
-
-<h3 align="center">Oracle</h3>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Oracle-Add%20Credential-6D28D9?style=for-the-badge&logo=oracle&logoColor=white&labelColor=1E1B4B" alt="Oracle" />
-</p>
-
-<h3 align="center">NPTEL</h3>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/NPTEL-Add%20Credential-7C3AED?style=for-the-badge&logoColor=white&labelColor=1E1B4B" alt="NPTEL" />
-</p>
-
-<h3 align="center">Cisco</h3>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Cisco-Add%20Credential-4F46E5?style=for-the-badge&logo=cisco&logoColor=white&labelColor=1E1B4B" alt="Cisco" />
 </p>
 
 ---
@@ -332,23 +336,23 @@ Designing and building AI-driven products end to end, from scoping and architect
 
 ```yaml
 Learning:
-  - Cloud Computing: AWS Auto Scaling, Load Balancing, Docker and Kubernetes
-  - Deep Learning: Transfer learning and fine-tuning with PyTorch
-  - Software Engineering: SRS, UML and system design practices
+  - Cloud Computing: AWS Auto Scaling, Load Balancing and Docker
+  - Deep Learning: Fine-tuning with PyTorch
   - Database Internals: Indexing, B+ trees and transaction management
+  - Software Engineering: SRS and UML-driven design
 
 Building:
+  - Ayurveda Idea Verification: extending the evidence-grounded engine
   - CricketIQ AI: IPL analytics platform
-  - HealthSense AI: Family health report analysis platform
-  - SIH 2026: Edge-AI decentralized AMR fleet coordination
+  - SIH 2026: Decentralized AMR fleet coordination
 
 Exploring:
-  - Edge AI and multi-agent coordination
-  - Vector search with pgvector
-  - Production-grade FastAPI architectures
+  - Decentralized coordination for multi-agent systems
+  - Deterministic, auditable rule engines
+  - Production deployment patterns on Render
 
 Open To:
-  - Software Engineering and AI / ML internships
+  - Software Engineering internships
   - Hackathons and open source collaboration
 ```
 
@@ -360,7 +364,7 @@ Open To:
   <a href="mailto:iyersriram042006@gmail.com"><img src="https://img.shields.io/badge/GMAIL-EMAIL-4C1D95?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1E1B4B" alt="Gmail" /></a>
   <a href="https://www.linkedin.com/in/sriramiyer10"><img src="https://img.shields.io/badge/LINKEDIN-CONNECT-6D28D9?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1E1B4B" alt="LinkedIn" /></a>
   <a href="https://github.com/iyersriram042006"><img src="https://img.shields.io/badge/GITHUB-FOLLOW-7C3AED?style=for-the-badge&logo=github&logoColor=white&labelColor=1E1B4B" alt="GitHub" /></a>
- </p>
+</p>
 
 ---
 
