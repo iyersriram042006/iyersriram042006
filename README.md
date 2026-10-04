@@ -39,7 +39,7 @@
 
 </div>
 
-I am a Computer Science and Engineering undergraduate at Ramdeobaba University, Nagpur. I build end-to-end applications, from relational schemas and REST APIs to deployed React frontends, and I like problems that reward careful reasoning: classical algorithms, deterministic rule engines and simulation. I scope each build honestly, ship working software with clear documentation, and iterate.
+I am a Computer Science and Engineering undergraduate at Ramdeobaba University, Nagpur. I build end-to-end applications, from relational schemas and REST APIs to deployed React frontends, and I like problems that reward careful reasoning: classical algorithms, rule-based engines and simulation. I scope each build honestly, ship working software with clear documentation, and iterate.
 
 - **Software Engineering** — modular architecture, design patterns, API design, testing and documentation
 - **Algorithms and Systems** — A* pathfinding, Hungarian assignment, deadlock detection and deterministic simulation
@@ -105,7 +105,7 @@ I am a Computer Science and Engineering undergraduate at Ramdeobaba University, 
 | Domain | Proficiency | Details |
 |:--|:--:|:--|
 | Classical Search and Optimization | ![Intermediate](https://img.shields.io/badge/Intermediate-6D28D9?style=flat-square) | A* pathfinding, Hungarian assignment and deadlock detection in a decentralized robot simulation; BFS, DFS, IDDFS and adversarial search in coursework |
-| Rule-Based Reasoning | ![Intermediate](https://img.shields.io/badge/Intermediate-6D28D9?style=flat-square) | Deterministic, evidence-grounded classification engine with confidence scoring and auditable decision paths |
+| Rule-Based Reasoning | ![Intermediate](https://img.shields.io/badge/Intermediate-6D28D9?style=flat-square) | Evidence-grounded classification pipeline with confidence scoring and auditable decision paths |
 | Recommendation Logic | ![Working](https://img.shields.io/badge/Working-4F46E5?style=flat-square) | Transparent keyword-scoring recommendations over user journal data (no trained model) |
 | Data Analytics | ![Working](https://img.shields.io/badge/Working-4F46E5?style=flat-square) | Genre, director and rating analytics; IPL ball-by-ball data pipeline with Pandas and NumPy in progress |
 | Deep Learning | ![Foundational](https://img.shields.io/badge/Foundational-4C1D95?style=flat-square) | Coursework lab on fine-tuning a VGG model in PyTorch |
@@ -147,12 +147,12 @@ A structured verification tool that helps innovators assess Ayurvedic product id
 |:--|:--|
 | **Stack** | React 19, TypeScript, TanStack Router, Vite, Tailwind CSS, Radix UI, Zod, Vitest |
 | **Scale** | Maps ideas to seven IP regimes through a five-stage analysis pipeline over a curated knowledge base |
-| **Performance** | Fully client-side deterministic engine with no model inference |
+| **Performance** | Client-side analysis pipeline with structured, evidence-cited results |
 | **Security** | Type-safe validation with Zod; no credentials in the repository |
 | **Impact** | Turns an unstructured idea into evidence-cited findings, gap analysis and a prioritized roadmap |
 | **Repository** | [iyersriram042006/ayurveda_idea_verification](https://github.com/iyersriram042006/ayurveda_idea_verification) |
 
-**Overview.** The pipeline moves from intake and classification to source retrieval, evidence verification and roadmap generation. Every result is rule-based and auditable, with confidence scoring and explicit gap reporting. It does not use language models or machine learning. The project is MIT licensed.
+**Overview.** The pipeline moves from intake and classification to source retrieval, evidence verification and roadmap generation. Results carry confidence scores and explicit gap reporting so every finding can be traced to its source. The project is MIT licensed.
 
 </details>
 
@@ -241,7 +241,7 @@ Working on Problem Statement 26123 (Bharat Electronics Limited): decentralized c
 Designing and building full stack applications end to end, from schema and API design to deployment and documentation.
 
 - Built and deployed CineMood, a full stack social movie journal with JWT authentication, TMDB integration and analytics
-- Built an evidence-grounded, rule-based verification engine for Ayurvedic innovations with React and TypeScript
+- Built an evidence-grounded verification platform for Ayurvedic innovations with React and TypeScript
 - Started CricketIQ AI, an IPL analytics platform on React, FastAPI and PostgreSQL
 - Implemented seven Gang of Four design patterns in a Java airport workflow simulation
 
@@ -263,7 +263,7 @@ Designing and building full stack applications end to end, from schema and API d
 | **Smart India Hackathon 2026** | Team member on Problem Statement 26123 for Bharat Electronics Limited |
 | **Live Deployment** | CineMood deployed with separate frontend and backend services on Render |
 | **Design Patterns** | Implemented seven Gang of Four patterns in a working Java application |
-| **Open Source Presence** | 12 public repositories across TypeScript, Python, Java, JavaScript and C++ |
+| **Open Source Presence** | Public repositories across TypeScript, Python, Java, JavaScript and C++ |
 
 </div>
 
@@ -287,6 +287,12 @@ Designing and building full stack applications end to end, from schema and API d
   <a href="https://www.geeksforgeeks.org/profile/iyersrirai4sp"><img src="https://img.shields.io/badge/GEEKSFORGEEKS-PROFILE-6D28D9?style=for-the-badge&logo=geeksforgeeks&logoColor=white&labelColor=1E1B4B" alt="GeeksforGeeks" /></a>
   <a href="https://www.hackerrank.com/profile/iyersriram042006"><img src="https://img.shields.io/badge/HACKERRANK-PROFILE-7C3AED?style=for-the-badge&logo=hackerrank&logoColor=white&labelColor=1E1B4B" alt="HackerRank" /></a>
   <a href="https://www.codechef.com/users/mischief_horse"><img src="https://img.shields.io/badge/CODECHEF-PROFILE-4F46E5?style=for-the-badge&logo=codechef&logoColor=white&labelColor=1E1B4B" alt="CodeChef" /></a>
+</p>
+
+<h3 align="center">Problem Solving</h3>
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/iyersriram042006?theme=dark&font=Fira%20Code&ext=heatmap" alt="LeetCode Stats" />
 </p>
 
 ---
@@ -340,7 +346,7 @@ Building:
 
 Exploring:
   - Decentralized coordination for multi-agent systems
-  - Deterministic, auditable rule engines
+  - Rule-based, auditable decision engines
   - Production deployment patterns on Render
 
 Open To:
