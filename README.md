@@ -304,14 +304,6 @@ Designing and building full stack applications end to end, from schema and API d
 
 ---
 
-<h2 align="center">GitHub Trophies</h2>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=iyersriram042006&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=12&margin-h=12" alt="GitHub Trophies" />
-</p>
-
----
-
 <h2 align="center">Contribution Activity</h2>
 
 <p align="center">
