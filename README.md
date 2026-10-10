@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:312E81,50:5B21B6,100:8B5CF6&amp;height=240&amp;section=header&amp;text=Sriram%20Iyer&amp;fontSize=64&amp;fontColor=EDE9FE&amp;fontAlignY=38&amp;desc=Software%20Engineer%20%7C%20Full%20Stack%20%7C%20Systems%20%26%20Algorithms&amp;descSize=20&amp;descAlignY=60&amp;animation=fadeIn" width="100%" alt="header" />
+<img src="assets/header.svg" width="100%" alt="header" />
 
 <a href="https://github.com/iyersriram042006">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=500&amp;size=22&amp;duration=3200&amp;pause=900&amp;color=A78BFA&amp;center=true&amp;vCenter=true&amp;width=760&amp;lines=Building+full+stack+systems+with+clean+architecture;Classical+algorithms+%7C+Rule-Based+Engines+%7C+Simulation;Computer+Science+%26+Engineering+%40+Ramdeobaba+University" alt="Typing SVG" />
@@ -23,7 +23,6 @@
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=iyersriram042006&amp;style=for-the-badge&amp;color=6D28D9&amp;labelColor=1E1B4B&amp;label=PROFILE+VIEWS" alt="Profile Views" />
 <img src="https://img.shields.io/github/followers/iyersriram042006?style=for-the-badge&amp;logo=github&amp;color=4F46E5&amp;labelColor=1E1B4B&amp;label=FOLLOWERS" alt="Followers" />
 <a href="https://github.com/iyersriram042006?tab=repositories"><img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fiyersriram042006&amp;query=%24.public_repos&amp;label=PUBLIC%20REPOS&amp;style=for-the-badge&amp;logo=github&amp;color=7C3AED&amp;labelColor=1E1B4B" alt="Public Repos" /></a>
 
@@ -370,6 +369,6 @@ Open To:
 
 *"Great software is built by engineers who understand the problem before they write the first line of code."*
 
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:312E81,50:5B21B6,100:8B5CF6&amp;height=140&amp;section=footer" width="100%" alt="footer" />
+<img src="assets/footer.svg" width="100%" alt="footer" />
 
 </div>
