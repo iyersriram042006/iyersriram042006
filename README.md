@@ -77,7 +77,7 @@ I am a Computer Science and Engineering undergraduate at Ramdeobaba University, 
   <img src="https://img.shields.io/badge/Chart.js-5B21B6?style=flat-square&logo=chartdotjs&logoColor=white" alt="Chart.js" />
 </p>
 
-<h3 align="center">Backend & Databases</h3>
+<h3 align="center">Backend &amp; Databases</h3>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=fastapi,py,postgres,mongodb&theme=dark" alt="Backend" />
